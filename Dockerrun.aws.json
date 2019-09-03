@@ -26,7 +26,7 @@
 			"name": "nginx",
 			"image": "hsz4docker/multi-nginx",
 			"essential": true,
-			"hostname": "nginx",,
+			"hostname": "nginx",
 			"memory": 128,
 			"portMappings": [
 				{
